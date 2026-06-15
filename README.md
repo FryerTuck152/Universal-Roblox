@@ -2,7 +2,7 @@
 
 This script was mainly coded with using artificial inteligence, any bugs or anticheat detects can be possible with this script. The author is not responsible for the use of their code. Any 
 
-`**Game compatibility**
+**Game compatibility**
 
 Script has both universal features and targeted at specific games. Script was tested in Multicrew Tank Combat, Slap Battles, Build a Boat for Treasure and some random ragdoll games.
 
