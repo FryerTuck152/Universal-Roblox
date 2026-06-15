@@ -4,7 +4,13 @@ This script was mainly coded with using artificial inteligence, any bugs or anti
 
 **Game compatibility**
 
-Script has both universal features and targeted at specific games. Script was tested in Multicrew Tank Combat, Slap Battles, Build a Boat for Treasure and some random ragdoll games.
+Script has both universal features and targeted at specific games. Script was tested in Multicrew Tank Combat, Slap Battles, Build a Boat for Treasure and some random ragdoll games**.
+
+**Launching**
+
+```bash
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FryerTuck152/Universal-Roblox/main/Release%201.0.lua"))()
+```
 
 **Functionality**
 
