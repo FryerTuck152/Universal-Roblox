@@ -27,7 +27,7 @@ Script has many universal and targeted features:
 | • Anti-Knockback | • Spam Fort |
 | • Teleport | • Farm Slapples |
 | • Baseplate | • Anti-Ragdoll |
-| • Cursor XYZ |
+| • Cursor XYZ | • Hide Nicknames |
 | • Player XYZ |
 | • Get PlaceID |
 | • Show fps |
